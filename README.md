@@ -1,12 +1,12 @@
 # Aditi Bhanu
 
-[LinkedIn](https://www.linkedin.com/in/aditibhanu) | [GitHub](https://github.com/Aditibhanu27) | aditibhanu1347@gmail.com | +91-6207678949 | Patna, Bihar, India
+[LinkedIn](#) | [GitHub](https://github.com/Aditibhanu27) | aditibhanu1347@gmail.com | +91-6207678949 | Patna, Bihar, India
 
 ---
 
 ## About Me
 
-Creative and results-oriented Computer Science undergraduate with strong analytical and problem-solving abilities. Thrives in collaborative teams, embraces learning new technologies, and adapts quickly to fast-paced environments. Passionate about tackling real-world challenges and delivering impactful solutions.
+Creative and results-oriented Computer Science undergraduate passionate about solving real-world problems with technology. Strong analytical skills and thrives in collaborative environments, embracing new technologies to deliver impactful solutions.
 
 ---
 
@@ -21,46 +21,39 @@ Bhubaneswar, India
 
 ## Projects
 
-### Responsive Multi-Page Website Design Using HTML & CSS  
-- Developed a fully responsive multi-page website with modern UI/UX, including Home, About, Courses, Blog, and Contact pages.  
-- Designed dynamic navigation, interactive content blocks, testimonials, call-to-action sections, and a visually appealing footer.  
-- Implemented a functional contact form and learned deployment for a live website.
+- **Responsive Multi-Page Website Design Using HTML & CSS**  
+  Developed a fully responsive multi-page website with modern UI/UX principles. Included Home, About, Courses, Blog, and Contact pages with interactive navigation and a functional contact form.
 
-### Library Management System (HTML, CSS, JavaScript)  
-- Created a web-based system to streamline book tracking and management for librarians.  
-- Implemented dynamic search functionality for book titles.  
-- Designed user-friendly interfaces for adding, viewing, and managing books to improve inventory management efficiency.
+- **Library Management System (HTML, CSS, JavaScript)**  
+  Created a web-based system to streamline book tracking and management. Implemented dynamic search and intuitive interfaces to improve librarian efficiency.
 
-### Other Notable GitHub Repositories  
-- **Cancer-Prediction-using-ML:** Machine learning project exploring cancer classification algorithms.  
-- **Personal-Productivity-Dashboard:** Stylish dark-themed web app for task management, quotes, and live weather updates.  
-- **QR-code:** QR code generator and scanner project.  
-*Explore more at: [Aditibhanu27 GitHub](https://github.com/Aditibhanu27)*
+- **Other Projects:**  
+  Explore projects like Cancer Prediction using ML, Personal Productivity Dashboard, and QR-code generator on my GitHub.
 
 ---
 
 ## Skills
 
-**Programming Languages:** Java, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** Bootstrap  
-**Databases:** MySQL  
-**Developer Tools:** VS Code, GitHub  
-**Soft Skills:** Leadership, Communication, Problem Solving, Time Management, Critical Thinking, Teamwork
+- **Languages:** Java, JavaScript, HTML, CSS  
+- **Frameworks:** Bootstrap  
+- **Databases:** MySQL  
+- **Tools:** VS Code, GitHub  
+- **Soft Skills:** Leadership, Communication, Problem Solving, Time Management, Critical Thinking, Teamwork
 
 ---
 
 ## Leadership & Extracurriculars
 
-- Volunteer at Khwaab - The Social Service Society  
-- Mentored junior students to foster peer learning and support campus community  
-- Led university project teams, coordinating tasks, promoting collaboration, and ensuring accountability  
-- Organized and managed college events and workshops efficiently  
+- Volunteer with Khwaab - The Social Service Society  
+- Mentored junior students, supporting peer learning  
+- Led university project teams ensuring effective collaboration  
+- Organized and managed college events and workshops
 
 ---
 
-## Contact Me
+## Contact
 
-Feel free to connect via LinkedIn or GitHub or email me at **aditibhanu1347@gmail.com** for collaborations, projects, or queries.
+Feel free to connect via email at **aditibhanu1347@gmail.com** or on GitHub.
 
 ---
 
