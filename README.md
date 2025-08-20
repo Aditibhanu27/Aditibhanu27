@@ -1,60 +1,63 @@
-# Aditi Bhanu
+<h1 align="center">Hi 👋, I'm Aditi Bhanu</h1>
+<h3 align="center">Aspiring Computer Science Engineer | Web Developer | Tech Enthusiast</h3>
 
-[LinkedIn](#) | [GitHub](https://github.com/Aditibhanu27) | aditibhanu1347@gmail.com | +91-6207678949 | Patna, Bihar, India
-
----
-
-## About Me
-
-Creative and results-oriented Computer Science undergraduate passionate about solving real-world problems with technology. Strong analytical skills and thrives in collaborative environments, embracing new technologies to deliver impactful solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;CSE+%7C+Web+Development+%7C+AI+Projects;Let's+innovate+with+technology!" alt="Typing SVG" />
+</p>
 
 ---
 
-## Education
+## 🚀 About Me
 
-**Kalinga Institute of Industrial Technology**  
-B.Tech in Computer Science Engineering (Sep 2022 – Jun 2026)  
-CGPA: 8.25  
-Bhubaneswar, India
-
----
-
-## Projects
-
-- **Responsive Multi-Page Website Design Using HTML & CSS**  
-  Developed a fully responsive multi-page website with modern UI/UX principles. Included Home, About, Courses, Blog, and Contact pages with interactive navigation and a functional contact form.
-
-- **Library Management System (HTML, CSS, JavaScript)**  
-  Created a web-based system to streamline book tracking and management. Implemented dynamic search and intuitive interfaces to improve librarian efficiency.
-
-- **Other Projects:**  
-  Explore projects like Cancer Prediction using ML, Personal Productivity Dashboard, and QR-code generator on my GitHub.
+- 🎓 **B.Tech Computer Science Engineering** @ Kalinga Institute of Industrial Technology (2022–2026)
+- 💻 Passionate about **Web Development, Machine Learning, and Problem Solving**
+- 🌱 Currently working on projects involving **HTML, CSS, JavaScript, Bootstrap, and ML algorithms**
+- 💡 Enthusiastic about building real-world tech solutions and collaborating on impactful projects
+- 📫 **How to reach me:** aditibhanu1347@gmail.com
 
 ---
 
-## Skills
+## 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript, HTML, CSS  
-- **Frameworks:** Bootstrap  
-- **Databases:** MySQL  
-- **Tools:** VS Code, GitHub  
-- **Soft Skills:** Leadership, Communication, Problem Solving, Time Management, Critical Thinking, Teamwork
-
----
-
-## Leadership & Extracurriculars
-
-- Volunteer with Khwaab - The Social Service Society  
-- Mentored junior students, supporting peer learning  
-- Led university project teams ensuring effective collaboration  
-- Organized and managed college events and workshops
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
 
 ---
 
-## Contact
+## 🌟 Featured Projects
 
-Feel free to connect via email at **aditibhanu1347@gmail.com** or on GitHub.
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Responsive Multi-Page Website** | Fully responsive website with modern UI/UX including Home, About, Courses, Blog, and Contact pages with interactive navigation and contact form. | HTML, CSS, JavaScript, Bootstrap | [Repo](https://github.com/Aditibhanu27/Responsive-Multi-Page-Website) |
+| **Library Management System** | Web-based system to streamline book tracking and management with dynamic search and user-friendly interface. | HTML, CSS, JavaScript | [Repo](https://github.com/Aditibhanu27/Library-Management-System) |
+| **Cancer Prediction using ML** | ML project predicting cancer levels using classification algorithms on medical datasets. | Python, Machine Learning | [Repo](https://github.com/Aditibhanu27/Cancer-Prediction-using-ML) |
+| **Personal Productivity Dashboard** | Stylish dark-themed web app for task management, quotes, and live weather updates. | JavaScript, HTML, CSS | [Repo](https://github.com/Aditibhanu27/Personal-Productivity-Dashboard) |
 
 ---
 
-*“Passionate about creating meaningful tech solutions that impact lives positively.”*
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:aditibhanu1347@gmail.com"><img src="https://img.shields.io/badge/-Email-333?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/aditi-bhanu"><img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/Aditibhanu27"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" /></a>
+</p>
+
+---
+
+## 🧑‍💻 Fun Fact
+
+> “Passionate about creating meaningful tech solutions that impact lives positively.”  
+> *Let’s innovate and build the future together!*
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditibhanu27" alt="visitor badge"/>
+</p>
