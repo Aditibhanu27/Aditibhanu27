@@ -13,7 +13,7 @@
 - 💻 Passionate about **Web Development, Machine Learning, and Problem Solving**
 - 🌱 Currently working on projects involving **HTML, CSS, JavaScript, Bootstrap, and ML algorithms**
 - 💡 Enthusiastic about building real-world tech solutions and collaborating on impactful projects
-- 📫 **How to reach me:** aditibhanu1347@gmail.com
+- 📫 **How to reach me:** aditibhanu1327@gmail.com
 
 ---
 
